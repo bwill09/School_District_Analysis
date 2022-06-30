@@ -6,7 +6,7 @@ The aim of the School District analysis is to understand funding and students gr
 
 ### Resources: Inside Resources folder 
 
-### Software: Python 4.9, Anaconda, Jupyter NOtebook 
+### Software: Python 3.7, Anaconda, Jupyter NOtebook 
 
 ### Feedback 
 
